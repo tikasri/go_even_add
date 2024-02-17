@@ -1,4 +1,4 @@
-package go_even_odd
+package main
 
 func EvenOdd(n init) string {
 	if n%2 = 0 {
